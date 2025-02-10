@@ -10,5 +10,7 @@ The program also creates a log containing the changes made during de-duplication
 Usage:
 
 Run the program with:
+
 python3 Adobe_Amanda_Jorgensen.py <input_json_file>
+
 Here, <input_json_file> is the path to the input JSON file containing records to be processed.
